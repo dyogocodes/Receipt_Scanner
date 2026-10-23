@@ -1,0 +1,25 @@
+{
+  "store": "REWE",
+  "date": "2026-10-12",
+  "time": "14:23",
+  "currency": "EUR",
+  "total": 8.96,
+  "items": [
+    {
+      "name": "Bananas",
+      "price": 1.49
+    },
+    {
+      "name": "Milk",
+      "price": 1.19
+    },
+    {
+      "name": "Bread",
+      "price": 2.49
+    },
+    {
+      "name": "Cheese",
+      "price": 3.79
+    }
+  ]
+}
